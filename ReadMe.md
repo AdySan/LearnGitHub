@@ -1,2 +1,3 @@
 # Learning GitHub
-First line of file
+First changed line of file
+Second line of file
